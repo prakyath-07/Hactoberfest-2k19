@@ -15,9 +15,9 @@ int main()
         }
     }
     if(flag)
-    printf("NO");
+    printf("not a palindrome");
     else
-    printf("YES");
+    printf("palindrome");
     
     return 0;
 }
